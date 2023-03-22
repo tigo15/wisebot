@@ -5,7 +5,7 @@ This bot detects and blocks inappropriate content, maintaining a safe and respec
 install **Python3**, download **AIogram** and **SQLAlchemy** in Python, you can use the pip package manager.
 
 **LINUX ՝**
-python3:     `sudo apt-get install python3` .
+python3:     `sudo apt-get install python3` ./n
 aiogram:    `sudo pip install aiogram` .
 sqlalchemy: `sudo pip install sqlalchemy` .
 
