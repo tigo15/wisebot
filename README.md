@@ -1,68 +1,44 @@
-# WISE BOT
-This bot detects and blocks inappropriate content, maintaining a safe and respectful environment.
-
-## install
-install **Python3**, download **AIogram** and **SQLAlchemy** in Python, you can use the pip package manager.
-
-**LINUX ՝**
-python3:     `sudo apt-get install python3` .\n
-aiogram:    `sudo pip install aiogram` .
-sqlalchemy: `sudo pip install sqlalchemy` .
-
-**WINDOWS ՝**
-python3: `python.org/downloads/windows` .
-aiogram:    `pip install aiogram` .
-sqlalchemy: `pip install sqlalchemy` .
-
-**MAC OS ՝**
-python3: `python.org/downloads/mac-osx` .
-aiogram: `sudo pip install aiogram` .
-sqlalchemy: `sudo pip install sqlalchemy` .
-## CONFIG
-- Open `config.py` file.
-- Set yor token in `TOKEN` path.
-- Set admin id in `ADMIN_ID` path.
-- Set moderator id in `MODER_ID` path.
-
-## RUNING
-**LINUX ՝**
-- Open Command Prompt by pressing the `CTRL + ALT + T` for the Run dialog box.
-- Navigate to the directory where the Python file is located using the `cd` command.
-- Type `python3 bot.py` and hit enter.
-
-**WINDOWS ՝**
-- Open Command Prompt by pressing the `WIN + R` and then type `cmd` in the Run dialog box.
-- Navigate to the directory where the Python file is located using the `cd` command.
-- Type `python bot.py` and hit enter.
-
-**MAC OS ՝**
-- Open the `Terminal` application
-- Navigate to the directory where the Python file is located using the `cd` command.
-- Type `python3 bot.py` and hit enter.
-
-
-## AUTHOR
-©2023 Tigran Kostandyan
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-
-   [dill]: <https://github.com/joemccann/dillinger>
-   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
-
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="WISE_BOT_0"></a>WISE BOT</h1>
+<p class="has-line-data" data-line-start="1" data-line-end="2">This bot detects and blocks inappropriate content, maintaining a safe and respectful environment.</p>
+<h2 class="code-line" data-line-start=3 data-line-end=4 ><a id="install_3"></a>install</h2>
+<p class="has-line-data" data-line-start="4" data-line-end="5">install <strong>Python3</strong>, download <strong>AIogram</strong> and <strong>SQLAlchemy</strong> in Python, you can use the pip package manager.</p>
+<p class="has-line-data" data-line-start="6" data-line-end="10"><strong>LINUX ՝</strong><br>
+python3:     <code>sudo apt-get install python3</code> .<br>
+aiogram:    <code>sudo pip install aiogram</code> .<br>
+sqlalchemy: <code>sudo pip install sqlalchemy</code> .</p>
+<p class="has-line-data" data-line-start="11" data-line-end="15"><strong>WINDOWS ՝</strong><br>
+python3: <code>python.org/downloads/windows</code> .<br>
+aiogram:    <code>pip install aiogram</code> .<br>
+sqlalchemy: <code>pip install sqlalchemy</code> .</p>
+<p class="has-line-data" data-line-start="16" data-line-end="20"><strong>MAC OS ՝</strong><br>
+python3: <code>python.org/downloads/mac-osx</code> .<br>
+aiogram: <code>sudo pip install aiogram</code> .<br>
+sqlalchemy: <code>sudo pip install sqlalchemy</code> .</p>
+<h2 class="code-line" data-line-start=20 data-line-end=21 ><a id="CONFIG_20"></a>CONFIG</h2>
+<ul>
+<li class="has-line-data" data-line-start="21" data-line-end="22">Open <code>config.py</code> file.</li>
+<li class="has-line-data" data-line-start="22" data-line-end="23">Set yor token in <code>TOKEN</code> path.</li>
+<li class="has-line-data" data-line-start="23" data-line-end="24">Set admin id in <code>ADMIN_ID</code> path.</li>
+<li class="has-line-data" data-line-start="24" data-line-end="26">Set moderator id in <code>MODER_ID</code> path.</li>
+</ul>
+<h2 class="code-line" data-line-start=26 data-line-end=27 ><a id="RUNING_26"></a>RUNING</h2>
+<p class="has-line-data" data-line-start="27" data-line-end="28"><strong>LINUX ՝</strong></p>
+<ul>
+<li class="has-line-data" data-line-start="28" data-line-end="29">Open Command Prompt by pressing the <code>CTRL + ALT + T</code> for the Run dialog box.</li>
+<li class="has-line-data" data-line-start="29" data-line-end="30">Navigate to the directory where the Python file is located using the <code>cd</code> command.</li>
+<li class="has-line-data" data-line-start="30" data-line-end="32">Type <code>python3 bot.py</code> and hit enter.</li>
+</ul>
+<p class="has-line-data" data-line-start="32" data-line-end="33"><strong>WINDOWS ՝</strong></p>
+<ul>
+<li class="has-line-data" data-line-start="33" data-line-end="34">Open Command Prompt by pressing the <code>WIN + R</code> and then type <code>cmd</code> in the Run dialog box.</li>
+<li class="has-line-data" data-line-start="34" data-line-end="35">Navigate to the directory where the Python file is located using the <code>cd</code> command.</li>
+<li class="has-line-data" data-line-start="35" data-line-end="37">Type <code>python bot.py</code> and hit enter.</li>
+</ul>
+<p class="has-line-data" data-line-start="37" data-line-end="38"><strong>MAC OS ՝</strong></p>
+<ul>
+<li class="has-line-data" data-line-start="38" data-line-end="39">Open the <code>Terminal</code> application</li>
+<li class="has-line-data" data-line-start="39" data-line-end="40">Navigate to the directory where the Python file is located using the <code>cd</code> command.</li>
+<li class="has-line-data" data-line-start="40" data-line-end="41">Type <code>python3 bot.py</code> and hit enter.</li>
+</ul>
+<h2 class="code-line" data-line-start=43 data-line-end=44 ><a id="AUTHor_43"></a>AUTHor</h2>
+<p class="has-line-data" data-line-start="44" data-line-end="45">©2023 Tigran Kostandyan</p>
