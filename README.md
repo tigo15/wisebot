@@ -1,4 +1,4 @@
-<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="WISE_BOT_0"></a>WISE BOT</h1>
+<img src="" /> <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="WISE_BOT_0"></a>WISE BOT</h1>
 <p class="has-line-data" data-line-start="1" data-line-end="2">This bot detects and blocks inappropriate content, maintaining a safe and respectful environment.</p>
 <h2 class="code-line" data-line-start=3 data-line-end=4 ><a id="install_3"></a>install</h2>
 <p class="has-line-data" data-line-start="4" data-line-end="5">install <strong>Python3</strong>, download <strong>AIogram</strong> and <strong>SQLAlchemy</strong> in Python, you can use the pip package manager.</p>
